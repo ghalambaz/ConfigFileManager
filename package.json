@@ -1,0 +1,24 @@
+{
+  "name": "config-file-manager/config-file-manager",
+  "type": "library",
+  "description": "config(key-value) file editor for PHP",
+  "keywords": ["config","file","ini","edit"],
+  "homepage": "https://github.com/ghalambaz/ConfigFileManager",
+  "license": "GPL",
+  "authors": [
+    {
+      "name": "Ali Ghalambaz",
+      "email": "a.ghalambaz@gmail.com",
+      "homepage": "https://github.com/ghalambaz",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=5.2.0"
+  },
+  "autoload": {
+    "psr-0": {
+      "ConfigFileManager": "src"
+    }
+  }
+}
