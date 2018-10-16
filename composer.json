@@ -4,7 +4,7 @@
   "description": "config(key-value) file editor for PHP",
   "keywords": ["config","file","ini","edit"],
   "homepage": "https://github.com/ghalambaz/ConfigFileManager",
-  "license": "GPL",
+  "license": "Apache-2.0",
   "authors": [
     {
       "name": "Ali Ghalambaz",
