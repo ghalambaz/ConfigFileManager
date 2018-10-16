@@ -19,8 +19,9 @@ TemplateDirectory=temp dir
  echo $config->Title;
  $config->Title = Your App;
  $config->save();
- 
 */
+namespace ConfigFileManager;
+
 class ConfigFileManager
 {
     private $configFile = null;
