@@ -1,6 +1,8 @@
 ### Config File Manager
 you may have file like this in you projects  
-> **#config.ini**
+
+**#config.ini**
+
  >Title=My App  
  >TemplateDirectory=temp dir  
  
