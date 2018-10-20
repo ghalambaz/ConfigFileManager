@@ -16,3 +16,8 @@ start with create new instance of **ConfigFileManager**
     $config->Title = "Your App";  //changing value of "Title"  
       
     $config->save();  //save changes to config.ini easily
+
+##installation
+add __"minimum-stability": "dev"__ 
+to your __*composer.json*__ file and run
+`composer require ghalambaz/config-file-manager `
