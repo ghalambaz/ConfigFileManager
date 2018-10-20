@@ -1,26 +1,5 @@
-﻿<?php
-/**
- * Developer: ali ghalambaz<a.ghalambaz@gmail.com>
- * Date: 12/19/12
- * Time: 4:45 PM
- *//*
- *
-//file name : config.ini
-//file content :
-
-# sample config file comment
-# My application's configuration file
-Title=My App
-TemplateDirectory=temp dir
-
-
-//How To Use
- $config = new ConfigFileManager('com/mvc/configs/config.ini');
- echo $config->Title;
- $config->Title = Your App;
- $config->save();
-*/
-namespace lib;
+<?php
+namespace CFM;
 
 class ConfigFileManager
 {
