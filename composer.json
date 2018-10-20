@@ -5,7 +5,6 @@
   "keywords": ["config","file","ini","edit"],
   "homepage": "https://github.com/ghalambaz/ConfigFileManager",
   "license": "Apache-2.0",
-  "minimum-stability": "dev",
   "authors": [
     {
       "name": "Ali Ghalambaz",
@@ -19,7 +18,7 @@
   },
   "autoload": {
     "psr-0": {
-      "CFM\\": "src/"
+      "CFM": "lib/"
     }
   },
   "extra": {
