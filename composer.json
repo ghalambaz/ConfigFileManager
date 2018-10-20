@@ -17,8 +17,8 @@
     "php": ">=5.4.0"
   },
   "autoload": {
-    "psr-0": {
-      "CFM": "lib/"
+    "psr-4": {
+      "ghalambaz\\ConfigFileManager\\": "lib/"
     }
   },
   "extra": {

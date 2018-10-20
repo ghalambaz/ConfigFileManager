@@ -1,5 +1,5 @@
 <?php
-namespace CFM;
+namespace ghalambaz\ConfigFileManager;
 
 class ConfigFileManager
 {
