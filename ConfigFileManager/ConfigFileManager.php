@@ -20,7 +20,7 @@ TemplateDirectory=temp dir
  $config->Title = Your App;
  $config->save();
 */
-namespace src;
+namespace ConfigFileManager;
 
 class ConfigFileManager
 {

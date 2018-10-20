@@ -19,7 +19,10 @@
   },
   "autoload": {
     "psr-0": {
-      "ConfigFileManager": "src"
+      "ConfigFileManager": "ConfigFileManager"
+    },
+    "psr-4": {
+      "ConfigFileManager\\": "ConfigFileManager"
     }
   },
   "extra": {
