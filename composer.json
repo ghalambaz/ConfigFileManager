@@ -1,5 +1,5 @@
 {
-  "name": "ghalambaz/config-file-manager",
+  "name": "ghalambaz/config",
   "type": "library",
   "description": "config(key-value) file editor for PHP",
   "keywords": ["config","file","ini","edit"],
@@ -17,8 +17,8 @@
     "php": ">=5.4.0"
   },
   "autoload": {
-    "psr-4": {
-      "ConfigFileManager\\": "lib/"
+    "psr-0": {
+      "ConfigFileManager": "lib/"
     }
   },
   "extra": {
