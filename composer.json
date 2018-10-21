@@ -1,5 +1,5 @@
 {
-  "name": "ghalambaz/config",
+  "name": "ghalambaz/config-file-manager",
   "type": "library",
   "description": "config(key-value) file editor for PHP",
   "keywords": ["config","file","ini","edit"],

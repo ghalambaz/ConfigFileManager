@@ -18,6 +18,14 @@ start with create new instance of **ConfigFileManager**
     $config->save();  //save changes to config.ini easily
 
 ##installation
-add __"minimum-stability": "dev"__ 
-to your __*composer.json*__ file and run
+
+add 
+`
+{"minimum-stability": "dev",
+"prefer-stable": true}
+`
+ 
+to your 
+__*composer.json*__ file and run
+
 `composer require ghalambaz/config-file-manager `
