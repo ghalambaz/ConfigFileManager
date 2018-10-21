@@ -17,7 +17,8 @@ start with create new instance of **ConfigFileManager**
       
     $config->save();  //save changes to config.ini easily
 
-##installation
+### installation
+---
 
 add 
 `
