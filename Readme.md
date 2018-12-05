@@ -19,14 +19,4 @@ start with create new instance of **ConfigFileManager**
 ```
 ### installation
 ---
-
-add 
-`
-{"minimum-stability": "dev",
-"prefer-stable": true}
-`
- 
-to your 
-__*composer.json*__ file and run
-
 `composer require ghalambaz/config-file-manager `
