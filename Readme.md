@@ -1,5 +1,6 @@
 ### Config File Manager
 > this class written 5 years ago . it's better to not use regular expressions for performance and faster interpreting . this project is just for ... !
+
 you may have file like this in your projects  
 
 **#config.ini**
